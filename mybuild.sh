@@ -1,8 +1,8 @@
 
 rm a.out
 
-g++ hello.cpp 
-
+# g++ hello.cpp 
+g++ overloading.cpp 
 
 echo Finished Build
 echo "*******************"
